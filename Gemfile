@@ -1,4 +1,3 @@
-group :test do
-  gem 'rake'
-end
+source "https://rubygems.org"
 
+ruby "2.2"
